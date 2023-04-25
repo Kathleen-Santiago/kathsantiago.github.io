@@ -99,6 +99,7 @@
 	background-size: auto;
 	background-position: top right;
 	position: relative;
+  background-repeat: no-repeat;
 }
 
 .partners-page-header h1, h2, p{
